@@ -7,6 +7,10 @@
 - 使用開源軟、硬體、圖資
 - 發展快速好上手的戶外救災工具
 
+登山版本
+1.安裝公開版本的 civ tak app 
+https://bit.ly/374FLud
+2.下載圖資後，匯入civ tak spp中的.可以使用osm及魯地圖(線上版).
 moi-osm+tw.zip
 osm and 魯地圖線上圖資
 
