@@ -9,7 +9,8 @@
 
 ## 登山版本 
 - 1.安裝公開版本的 civ tak app https://bit.ly/374FLud 
-- 2.下載圖資後，匯入civ tak spp中的.可以使用osm及魯地圖(線上版). 
+- 2.下載圖資後，匯入civ tak spp中的.可以使用osm及魯地圖(線上版).
+- 3.組隊功能. https://www.zerotier.com/ 創建帳號 提供虛擬網路. 安裝 ZeroTier One https://bit.ly/3yDypJW  
 
 ### moi-osm+tw.zip osm and 魯地圖線上圖資
 
